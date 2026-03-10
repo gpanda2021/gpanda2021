@@ -1,16 +1,29 @@
-## Hi there 👋
+# Gyanalok Panda
 
-<!--
-**gpanda2021/gpanda2021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI Automation Engineer | Backend Developer | React
 
-Here are some ideas to get you started:
+I have 7+ years of experience building scalable web applications and backend systems. Recently I have been focusing on building AI-powered automation tools and evaluation systems using Node.js, APIs, and modern AI workflows.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## AI Projects
+
+AI Email Lead Qualification Agent  
+Classifies customer emails, detects intent, scores leads, and generates automated replies.
+
+AI Response Evaluator  
+Evaluates AI responses for instruction-following, quality, and correctness.
+
+## Tech Stack
+
+Node.js  
+React  
+Express  
+REST APIs  
+Generative AI workflows  
+AI evaluation systems  
+Agile / Scrum (PSM I)
+
+## Languages
+
+Odia (native)  
+English  
+Hindi
