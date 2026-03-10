@@ -27,3 +27,18 @@ Agile / Scrum (PSM I)
 Odia (native)  
 English  
 Hindi
+
+## Demo
+
+![AI Email Agent Screenshot](screenshot.png)
+## Architecture
+
+Web UI
+↓
+Express API
+↓
+Email Analyzer
+↓
+Intent Detection
+Lead Scoring
+Auto Reply Generation
